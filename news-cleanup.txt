@@ -1,0 +1,30 @@
+! Title: News cleanup
+! Description: Remove opinion crap on news sites
+! Version: 202206110800
+! Expires: 4 days (update frequency)
+
+!!! Wall Street Journal !!!
+
+! Gap in the ad header
+www.wsj.com##.styles--margin-bottom--1qLtxtgQ.WSJTheme--margin-bottom--2-lor3Ur.styles--padding-bottom--DQ6elYpe.WSJTheme--padding-bottom--1CfMQoRd
+! Blank Space on Sidebar
+www.wsj.com##.styles--margin-bottom-large--wa4U95NA.WSJTheme--margin-bottom-large--30x8UI8h > div:nth-of-type(3)
+! Dow Jones Header
+www.wsj.com##.style--at16units--2CvtId8r.style--hat--3jbDU4Tp
+www.wsj.com##.style--at16units-2CvtId8rTRjF8c2eIltqiB.style--hat-3jbDU4Tp42_124xt74HrLQ
+! Opinion sidebar
+www.wsj.com###opinion
+! Comment number
+www.wsj.com##.WSJTheme--stats--2HBLhVc9
+! Opinion Links in Header
+www.wsj.com##.style--opinion--2bIXh_gh.style--top-menu-item--1c-FBrLt
+www.wsj.com##.style--opinion-2bIXh_ghDqCADWt-ycUC7.style--top-menu-item-1c-FBrLt6rbgZ47_wDYsIg
+! Most popular opinion articles
+www.wsj.com###most-popular-opinion-articles
+! Remove empty space in the sidebar
+www.wsj.com##div.styles--margin-bottom-xlarge--3otsIrdd.WSJTheme--margin-bottom-xlarge--FD1mNjrm:nth-of-type(1) > div:nth-of-type(3)
+
+!!! New York Times !!!
+
+! Opinion block on front page
+www.nytimes.com##div.e1ppw5w20.css-bhj6yv:nth-of-type(2)

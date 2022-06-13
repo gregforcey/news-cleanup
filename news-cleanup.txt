@@ -28,3 +28,7 @@ www.wsj.com##div.styles--margin-bottom-xlarge--3otsIrdd.WSJTheme--margin-bottom-
 
 ! Opinion block on front page
 www.nytimes.com##div.e1ppw5w20.css-bhj6yv:nth-of-type(2)
+
+!!! Flyertalk !!!
+
+www.flyertalk.com###right-rail

@@ -1,2 +1,5 @@
-# news-cleanup
- Blocking filters that clean up news sites
+# News Cleanup Filter
+ Custom ad blocking list that cleans up the following news sites by removing opinion columns, divisive content, and other annoyances:
+ - Wall Street Journal
+ - New York Times
+ - Flyertalk

@@ -29,6 +29,10 @@ www.wsj.com##div.styles--margin-bottom-xlarge--3otsIrdd.WSJTheme--margin-bottom-
 ! Opinion block on front page
 www.nytimes.com##div.e1ppw5w20.css-bhj6yv:nth-of-type(2)
 
+!!! Washington Post !!!
+
+www.washingtonpost.com##.hide-helpers.include-dividers-features.table9.grid-right.grid-bottom.grid-top.stacked-strips-with-far-right-table-4-tables-layout.hpgrid-item--r-spans.hpgrid-item--c-spans.hpgrid-item--c-start.hpgrid-item.hpgrid.table-in-grid
+
 !!! Flyertalk !!!
 
 www.flyertalk.com###right-rail

@@ -3,3 +3,4 @@
  - Wall Street Journal
  - New York Times
  - Flyertalk
+ - Washington Post

@@ -12,6 +12,7 @@ www.wsj.com##.styles--margin-bottom-large--wa4U95NA.WSJTheme--margin-bottom-larg
 ! Dow Jones Header
 www.wsj.com##.style--at16units--2CvtId8r.style--hat--3jbDU4Tp
 www.wsj.com##.style--at16units-2CvtId8rTRjF8c2eIltqiB.style--hat-3jbDU4Tp42_124xt74HrLQ
+www.wsj.com##.kMQLVi.sharedStyles__TopComponentsWrapper-sc-vnoixb-3
 ! Opinion sidebar
 www.wsj.com###opinion
 ! Comment number
@@ -28,6 +29,8 @@ www.wsj.com##div.styles--margin-bottom-xlarge--3otsIrdd.WSJTheme--margin-bottom-
 
 ! Opinion block on front page
 www.nytimes.com##div.e1ppw5w20.css-bhj6yv:nth-of-type(2)
+www.nytimes.com##div.e1ppw5w20.css-14hmr3u:nth-of-type(2)
+
 
 !!! Washington Post !!!
 

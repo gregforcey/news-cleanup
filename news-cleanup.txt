@@ -14,6 +14,7 @@ www.wsj.com##.style--at16units--2CvtId8r.style--hat--3jbDU4Tp
 www.wsj.com##.style--at16units-2CvtId8rTRjF8c2eIltqiB.style--hat-3jbDU4Tp42_124xt74HrLQ
 www.wsj.com##.kMQLVi.sharedStyles__TopComponentsWrapper-sc-vnoixb-3
 www.wsj.com##.e1of74uw14.css-dfuyjh
+www.wsj.com##.e1of74uw13.css-dfuyjh
 ! Opinion sidebar
 www.wsj.com###opinion
 ! Comment number

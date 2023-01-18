@@ -1,6 +1,6 @@
 ! Title: News cleanup
 ! Description: Remove opinion crap on news sites
-! Version: 20221031
+! Version: 20230118
 ! Expires: 4 days (update frequency)
 
 !!! Wall Street Journal !!!

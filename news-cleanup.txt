@@ -8,7 +8,8 @@
 ! Gap in the ad header
 www.wsj.com##.styles--margin-bottom--1qLtxtgQ.WSJTheme--margin-bottom--2-lor3Ur.styles--padding-bottom--DQ6elYpe.WSJTheme--padding-bottom--1CfMQoRd
 ! Blank Space on Sidebar
-www.wsj.com##.styles--margin-bottom-large--wa4U95NA.WSJTheme--margin-bottom-large--30x8UI8h > div:nth-of-type(3)
+! www.wsj.com##.styles--margin-bottom-large--wa4U95NA.WSJTheme--margin-bottom-large--30x8UI8h > div:nth-of-type(3)
+www.wsj.com##div > div.styles--margin-bottom-xlarge--3otsIrdd.WSJTheme--margin-bottom-xlarge--FD1mNjrm
 ! Dow Jones Header
 www.wsj.com##.style--at16units--2CvtId8r.style--hat--3jbDU4Tp
 www.wsj.com##.style--at16units-2CvtId8rTRjF8c2eIltqiB.style--hat-3jbDU4Tp42_124xt74HrLQ

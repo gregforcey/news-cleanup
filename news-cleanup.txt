@@ -35,6 +35,7 @@ www.wsj.com##div.styles--margin-bottom-xlarge--3otsIrdd.WSJTheme--margin-bottom-
 ! Opinion block on front page
 www.nytimes.com##div.e1ppw5w20.css-bhj6yv:nth-of-type(2)
 www.nytimes.com##div.e1ppw5w20.css-14hmr3u:nth-of-type(2)
+www.nytimes.com##div.e1ppw5w20.css-ouupg9:nth-of-type(2)
 
 !!! Washington Post !!!
 

@@ -17,7 +17,9 @@ www.wsj.com##.kMQLVi.sharedStyles__TopComponentsWrapper-sc-vnoixb-3
 www.wsj.com##.e1of74uw14.css-dfuyjh
 www.wsj.com##.e1of74uw13.css-dfuyjh
 ! Opinion sidebar
-www.wsj.com###opinion
+! www.wsj.com###opinion
+www.wsj.com##div.styles--margin-bottom-xlarge--3otsIrdd.WSJTheme--margin-bottom-xlarge--FD1mNjrm .styles--padding-bottom--DQ6elYpe.WSJTheme--padding-bottom--1CfMQoRd
+www.wsj.com##div:nth-of-type(5)
 ! Comment number
 www.wsj.com##.WSJTheme--stats--2HBLhVc9
 ! Opinion Links in Header
@@ -34,7 +36,6 @@ www.wsj.com##div.styles--margin-bottom-xlarge--3otsIrdd.WSJTheme--margin-bottom-
 www.nytimes.com##div.e1ppw5w20.css-bhj6yv:nth-of-type(2)
 www.nytimes.com##div.e1ppw5w20.css-14hmr3u:nth-of-type(2)
 
-
 !!! Washington Post !!!
 
 www.washingtonpost.com##.hide-helpers.include-dividers-features.table9.grid-right.grid-bottom.grid-top.wide-center-3-col-table-at-left-layout.hpgrid-item--r-spans.hpgrid-item--c-spans.hpgrid-item--c-start.hpgrid-item.hpgrid.table-in-grid
@@ -44,10 +45,8 @@ www.washingtonpost.com##.hide-helpers.include-dividers-features.table9.grid-righ
 www.washingtonpost.com##.hide-helpers.include-dividers-features.table9.grid-right.grid-bottom.grid-top.stacked-strips-with-far-right-table-6-tables-with-top-strip-layout.hpgrid-item--r-spans.hpgrid-item--c-spans.hpgrid-item--c-start.hpgrid-item.hpgrid.table-in-grid
 www.washingtonpost.com##.hide-helpers.include-dividers-features.table9.grid-right.grid-bottom.grid-top.stacked-strips-with-far-right-table-6-tables-layout.hpgrid-item--r-spans.hpgrid-item--c-spans.hpgrid-item--c-start.hpgrid-item.hpgrid.table-in-grid
 www.washingtonpost.com##.hide-helpers.include-dividers-features.table9.grid-right.grid-bottom.grid-top.grid-horizontal-divider-off.stacked-strips-with-far-right-table-6-tables-layout.hpgrid-item--r-spans.hpgrid-item--c-spans.hpgrid-item--c-start.hpgrid-item.hpgrid.table-in-grid
-
 www.washingtonpost.com##.include-dividers-tables.no-line-bottom.small-bottom-separator.mx-dsktp-order.ma-auto.hpgrid-max-width.hpgrid.chain > .hide-helpers.include-dividers-features.table9.grid-right.grid-bottom.grid-top.wide-left-4-separate-tables-layout.hpgrid-item--r-spans.hpgrid-item--c-spans.hpgrid-item--c-start.hpgrid-item.hpgrid.table-in-grid
 www.washingtonpost.com##.include-dividers-tables.no-line-bottom.small-bottom-separator.mx-dsktp-order.ma-auto.hpgrid-max-width.hpgrid.chain > .hide-helpers.include-dividers-features.table9.grid-right.grid-bottom.grid-top.wide-left-3-col-table-at-left-layout.hpgrid-item--r-spans.hpgrid-item--c-spans.hpgrid-item--c-start.hpgrid-item.hpgrid.table-in-grid
-
 
 !!! Flyertalk !!!
 

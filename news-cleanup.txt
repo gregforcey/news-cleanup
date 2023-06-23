@@ -51,4 +51,10 @@ www.washingtonpost.com##.include-dividers-tables.no-line-bottom.small-bottom-sep
 
 !!! Flyertalk !!!
 
+! Remove right sidebar guilting you
 www.flyertalk.com###right-rail
+
+!!! Twitter !!!
+
+! Remove right sidebar showing trends and who to follow
+twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1d6w8o1.r-x572qd.css-1dbjc4n

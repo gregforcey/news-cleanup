@@ -49,6 +49,10 @@ www.washingtonpost.com##.hide-helpers.include-dividers-features.table9.grid-righ
 www.washingtonpost.com##.include-dividers-tables.no-line-bottom.small-bottom-separator.mx-dsktp-order.ma-auto.hpgrid-max-width.hpgrid.chain > .hide-helpers.include-dividers-features.table9.grid-right.grid-bottom.grid-top.wide-left-4-separate-tables-layout.hpgrid-item--r-spans.hpgrid-item--c-spans.hpgrid-item--c-start.hpgrid-item.hpgrid.table-in-grid
 www.washingtonpost.com##.include-dividers-tables.no-line-bottom.small-bottom-separator.mx-dsktp-order.ma-auto.hpgrid-max-width.hpgrid.chain > .hide-helpers.include-dividers-features.table9.grid-right.grid-bottom.grid-top.wide-left-3-col-table-at-left-layout.hpgrid-item--r-spans.hpgrid-item--c-spans.hpgrid-item--c-start.hpgrid-item.hpgrid.table-in-grid
 
+!!! Financial Times !!!
+# Remove empty banner at top of homepage
+www.ft.com##.n-layout__header-before > pg-slot
+
 !!! Flyertalk !!!
 
 ! Remove right sidebar guilting you

@@ -5,4 +5,3 @@
  - Washington Post
  - Financial Times
  - Flyertalk
- - Twitter

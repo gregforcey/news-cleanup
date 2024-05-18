@@ -1,45 +1,35 @@
 ! Title: News cleanup
 ! Description: Remove opinion crap on news sites
-! Version: 20230118
+! Version: 20240518
 ! Expires: 4 days (update frequency)
 
 !!! Wall Street Journal !!!
 
-! Gap in the ad header
-www.wsj.com##.styles--margin-bottom--1qLtxtgQ.WSJTheme--margin-bottom--2-lor3Ur.styles--padding-bottom--DQ6elYpe.WSJTheme--padding-bottom--1CfMQoRd
 ! Blank Space on Sidebar
-! www.wsj.com##.styles--margin-bottom-large--wa4U95NA.WSJTheme--margin-bottom-large--30x8UI8h > div:nth-of-type(3)
-www.wsj.com##div > div.styles--margin-bottom-xlarge--3otsIrdd.WSJTheme--margin-bottom-xlarge--FD1mNjrm
-! Dow Jones Header
-www.wsj.com##.style--at16units--2CvtId8r.style--hat--3jbDU4Tp
-www.wsj.com##.style--at16units-2CvtId8rTRjF8c2eIltqiB.style--hat-3jbDU4Tp42_124xt74HrLQ
-www.wsj.com##.kMQLVi.sharedStyles__TopComponentsWrapper-sc-vnoixb-3
-www.wsj.com##.e1of74uw14.css-dfuyjh
-www.wsj.com##.e1of74uw13.css-dfuyjh
-! Opinion sidebar
-! www.wsj.com###opinion
-www.wsj.com##div.styles--margin-bottom-xlarge--3otsIrdd.WSJTheme--margin-bottom-xlarge--FD1mNjrm .styles--padding-bottom--DQ6elYpe.WSJTheme--padding-bottom--1CfMQoRd
 www.wsj.com##div:nth-of-type(5)
-! Comment number
-www.wsj.com##.WSJTheme--stats--2HBLhVc9
-! Opinion Links in Header
-www.wsj.com##.style--opinion--2bIXh_gh.style--top-menu-item--1c-FBrLt
-www.wsj.com##.style--opinion-2bIXh_ghDqCADWt-ycUC7.style--top-menu-item-1c-FBrLt6rbgZ47_wDYsIg
+! Opinion sidebar
+www.wsj.com###opinion
 ! Most popular opinion articles
 www.wsj.com###most-popular-opinion-articles
-! Remove empty space in the sidebar
-www.wsj.com##div.styles--margin-bottom-xlarge--3otsIrdd.WSJTheme--margin-bottom-xlarge--FD1mNjrm:nth-of-type(1) > div:nth-of-type(3)
+
+!!! Barrons !!!
+www.barrons.com##.adWrapperTopLead.fvxYmg.standard__AdWrapper-sc-14sjre0-8
+
+!!! Investors Business Daily !!!
+www.investors.com##.market-banner
 
 !!! New York Times !!!
 
 ! Opinion block on front page
-www.nytimes.com##div.e1ppw5w20.css-bhj6yv:nth-of-type(2)
-www.nytimes.com##div.e1ppw5w20.css-14hmr3u:nth-of-type(2)
-www.nytimes.com##div.e1ppw5w20.css-ouupg9:nth-of-type(2)
+!www.nytimes.com##div.e1ppw5w20.css-bhj6yv:nth-of-type(2)
+!www.nytimes.com##div.e1ppw5w20.css-14hmr3u:nth-of-type(2)
+!www.nytimes.com##div.e1ppw5w20.css-ouupg9:nth-of-type(2)
+
+www.nytimes.com##div.e1ppw5w20.css-5bh64l:nth-of-type(2)
+www.nytimes.com##.e17qa79g0.css-1bjokvb > div > div > div.e1ppw5w20.css-5bh64l:nth-of-type(1)
 
 !!! Washington Post !!!
-
-www.washingtonpost.com##div.ma-auto.hpgrid-max-width:nth-of-type(3)
+www.washingtonpost.com###main-content > div.ma-auto.hpgrid-max-width:nth-of-type(2)
 
 !!! Financial Times !!!
 # Remove empty banner at top of homepage

@@ -8,6 +8,8 @@
 ! Blank Space on Sidebar
 www.wsj.com##div:nth-of-type(5)
 www.wsj.com##.e13b5n727.css-175sadp
+www.wsj.com##.css-175sadp.e13b5n727
+www.wsj.com##.css-1856z1j > .css-13byt3y
 
 ! Opinion sidebar
 www.wsj.com###opinion
@@ -25,6 +27,7 @@ www.investors.com##.market-banner
 
 ! Opinion block on front page
 www.nytimes.com##.css-1bjokvb.e17qa79g0 > .css-1dngl6i
+www.nytimes.com##.e17qa79g0.css-1bjokvb > .css-1dngl6i
 
 !!! Washington Post !!!
 www.washingtonpost.com##.table-in-grid.hpgrid.hpgrid-item.hpgrid-item--c-start.hpgrid-item--c-spans.hpgrid-item--r-spans.stacked-strips-with-split-tables-8-tables-layout.grid-horizontal-divider-off.grid-top.grid-bottom.grid-right.table9.include-dividers-features.hide-helpers

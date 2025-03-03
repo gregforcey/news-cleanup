@@ -33,6 +33,7 @@ www.investors.com##.market-banner
 ! Opinion block on front page
 www.nytimes.com##.css-1bjokvb.e17qa79g0 > .css-1dngl6i
 www.nytimes.com##.e17qa79g0.css-1bjokvb > .css-1dngl6i
+www.nytimes.com##.css-1bjokvb.e17qa79g0 > div:nth-of-type(1) > div:nth-of-type(1) > div.css-1w1paqe.e1ppw5w20:nth-of-type(2) > .css-12qvnte.e1ppw5w20
 
 !!! Washington Post !!!
 www.washingtonpost.com##.table-in-grid.hpgrid.hpgrid-item.hpgrid-item--c-start.hpgrid-item--c-spans.hpgrid-item--r-spans.stacked-strips-with-split-tables-8-tables-layout.grid-horizontal-divider-off.grid-top.grid-bottom.grid-right.table9.include-dividers-features.hide-helpers

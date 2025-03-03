@@ -37,6 +37,7 @@ www.nytimes.com##.e17qa79g0.css-1bjokvb > .css-1dngl6i
 !!! Washington Post !!!
 www.washingtonpost.com##.table-in-grid.hpgrid.hpgrid-item.hpgrid-item--c-start.hpgrid-item--c-spans.hpgrid-item--r-spans.stacked-strips-with-split-tables-8-tables-layout.grid-horizontal-divider-off.grid-top.grid-bottom.grid-right.table9.include-dividers-features.hide-helpers
 www.washingtonpost.com##.table-in-grid.hpgrid.hpgrid-item.hpgrid-item--c-start.hpgrid-item--c-spans.hpgrid-item--r-spans.stacked-strips-with-split-tables-and-wide-far-right-table-layout.grid-horizontal-divider-off.grid-top.grid-bottom.grid-right.table9.include-dividers-features.hide-helpers
+www.washingtonpost.com##.table-in-grid.hpgrid.hpgrid-item.hpgrid-item--c-start.hpgrid-item--c-spans.hpgrid-item--r-spans.stacked-strips-with-split-tables-and-wide-far-right-table-layout.grid-horizontal-divider-off.grid-top.grid-bottom.grid-right.table9.include-dividers-features.hide-helpers
 
 !!! Financial Times !!!
 # Remove empty banner at top of homepage

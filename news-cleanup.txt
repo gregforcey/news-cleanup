@@ -6,12 +6,16 @@
 !!! Wall Street Journal !!!
 
 ! Blank Space on Sidebar
-www.wsj.com##div:nth-of-type(5)
-www.wsj.com##.e13b5n727.css-175sadp
 www.wsj.com##.css-175sadp.e13b5n727
 www.wsj.com##.css-1856z1j > .css-13byt3y
+www.wsj.com##.css-iyy78o.e156ot5c3
+www.wsj.com##.css-iyy78o.e1ke5nxg3
 www.wsj.com##.css-iyy78o.e1vlq1nb3
+www.wsj.com##.css-sw5cyu.e1lx9n1q3
 www.wsj.com##.css-sw5cyu.e1vlq1nb3
+www.wsj.com##.css-sw5cyu.ez6zued3
+www.wsj.com##.e13b5n727.css-175sadp
+www.wsj.com##div:nth-of-type(5)
 
 ! Opinion sidebar
 www.wsj.com###opinion
@@ -20,12 +24,16 @@ www.wsj.com###opinion
 www.wsj.com###most-popular-opinion-articles
 
 !!! Barrons !!!
+
 www.barrons.com##.adWrapperTopLead.fvxYmg.standard__AdWrapper-sc-14sjre0-8
 www.barrons.com##.css-uejecu
 www.barrons.com##.e1fy147d7.emotion-1rwu3m0
 www.barrons.com##.e1fy147d6.emotion-1rwu3m0
+www.barrons.com##.css-uejecu
 
 !!! Investors Business Daily !!!
+
+! Remove market banner on top of page
 www.investors.com##.market-banner
 
 !!! New York Times !!!
@@ -36,12 +44,18 @@ www.nytimes.com##.e17qa79g0.css-1bjokvb > .css-1dngl6i
 www.nytimes.com##.css-1bjokvb.e17qa79g0 > div:nth-of-type(1) > div:nth-of-type(1) > div.css-1w1paqe.e1ppw5w20:nth-of-type(2) > .css-12qvnte.e1ppw5w20
 
 !!! Washington Post !!!
+
+! Remove opinion Block on right side
 www.washingtonpost.com##.table-in-grid.hpgrid.hpgrid-item.hpgrid-item--c-start.hpgrid-item--c-spans.hpgrid-item--r-spans.stacked-strips-with-split-tables-8-tables-layout.grid-horizontal-divider-off.grid-top.grid-bottom.grid-right.table9.include-dividers-features.hide-helpers
 www.washingtonpost.com##.table-in-grid.hpgrid.hpgrid-item.hpgrid-item--c-start.hpgrid-item--c-spans.hpgrid-item--r-spans.stacked-strips-with-split-tables-and-wide-far-right-table-layout.grid-horizontal-divider-off.grid-top.grid-bottom.grid-right.table9.include-dividers-features.hide-helpers
-www.washingtonpost.com##.table-in-grid.hpgrid.hpgrid-item.hpgrid-item--c-start.hpgrid-item--c-spans.hpgrid-item--r-spans.stacked-strips-with-split-tables-and-wide-far-right-table-layout.grid-horizontal-divider-off.grid-top.grid-bottom.grid-right.table9.include-dividers-features.hide-helpers
+www.washingtonpost.com##.hide-helpers.include-dividers-features.table9.grid-right.grid-bottom.grid-top.grid-horizontal-divider-off.stacked-strips-with-split-tables-and-wide-far-right-table-layout.hpgrid-item--r-spans.hpgrid-item--c-spans.hpgrid-item--c-start.hpgrid-item.hpgrid.table-in-grid
+www.washingtonpost.com##.adslot-c.dn-hp-xs.wpds-c-gtAqRp-gtxhIf-isHomepageTopLeaderboard-true.wpds-c-gtAqRp.hide-for-print.PJLV-igirQCV-css.wpds-c-jAbMAP.PJLV
+www.washingtonpost.com##div.adslot-c.dn-hp-xs.wpds-c-gtAqRp.pb-md.pt-md.mt-md.mb-md.hide-for-print.PJLV-igahurE-css.wpds-c-jAbMAP.PJLV:nth-of-type(4)
+www.washingtonpost.com##div.adslot-c.dn-hp-xs.wpds-c-gtAqRp.pb-md.pt-md.mt-md.mb-md.hide-for-print.PJLV-igahurE-css.wpds-c-jAbMAP.PJLV:nth-of-type(11)
 
 !!! Financial Times !!!
-# Remove empty banner at top of homepage
+
+! Remove empty banner at top of homepage
 www.ft.com##.n-layout__header-before > pg-slot
 
 !!! Flyertalk !!!
@@ -50,4 +64,11 @@ www.ft.com##.n-layout__header-before > pg-slot
 www.flyertalk.com###right-rail
 
 !!! Slickdeals !!!
+
+! Remove logo area above the main posts
 slickdeals.net###logoarea
+
+
+
+
+

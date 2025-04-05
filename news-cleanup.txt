@@ -1,6 +1,6 @@
 ! Title: News cleanup
-! Description: Remove opinion crap and annoying banners on news sites
-! Version: 20250303
+! Description: Remove opinion sidebars and annoying banners on news sites
+! Version: 20250405
 ! Expires: 4 days (update frequency)
 
 !!! Wall Street Journal !!!

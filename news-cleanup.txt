@@ -6,10 +6,8 @@
 !!! Wall Street Journal !!!
 
 ! Blank Space on Sidebar
-! www.wsj.com##div:nth-of-type(5)
 www.wsj.com##.e1lx9n1q3.css-sw5cyu
 www.wsj.com##.css-175sadp.e13b5n727
-! www.wsj.com##.css-1856z1j > .css-13byt3y
 www.wsj.com##.css-iyy78o.e156ot5c3
 www.wsj.com##.css-iyy78o.e1ke5nxg3
 www.wsj.com##.css-iyy78o.e1vlq1nb3
@@ -23,6 +21,10 @@ www.wsj.com##.css-sw5cyu.edqg86f5
 
 ! Opinion sidebar
 www.wsj.com###opinion
+www.wsj.com##div:nth-of-type(5)
+www.wsj.com##.css-1856z1j
+www.wsj.com##div.css-3dw7eo:nth-of-type(3)
+
 
 ! Most popular opinion articles
 www.wsj.com###most-popular-opinion-articles

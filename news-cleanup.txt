@@ -18,6 +18,7 @@ www.wsj.com##.css-sw5cyu.e1bjx46t4
 www.wsj.com##.e13b5n727.css-175sadp
 www.wsj.com##.css-sw5cyu.e1hw1wvp4
 www.wsj.com##.css-sw5cyu.edqg86f5
+www.wsj.com##.css-sw5cyu.efl6t85
 
 ! Opinion sidebar
 www.wsj.com###opinion
@@ -35,6 +36,7 @@ www.barrons.com##.adWrapperTopLead.fvxYmg.standard__AdWrapper-sc-14sjre0-8
 www.barrons.com##.css-uejecu
 www.barrons.com##.e1fy147d7.emotion-1rwu3m0
 www.barrons.com##.e1fy147d6.emotion-1rwu3m0
+www.barrons.com##.e1fy147d8.emotion-1rwu3m0
 
 !!! Investors Business Daily !!!
 

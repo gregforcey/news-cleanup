@@ -26,7 +26,6 @@ www.wsj.com##div:nth-of-type(5)
 www.wsj.com##.css-1856z1j
 www.wsj.com##div.css-3dw7eo:nth-of-type(3)
 
-
 ! Most popular opinion articles
 www.wsj.com###most-popular-opinion-articles
 
@@ -42,6 +41,9 @@ www.barrons.com##.e1fy147d8.emotion-1rwu3m0
 
 ! Remove market banner on top of page
 www.investors.com##.market-banner
+
+!!! Washington Post !!!
+www.washingtonpost.com##.bgColor.padding.dn-hp-xs
 
 !!! Financial Times !!!
 

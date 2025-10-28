@@ -47,6 +47,7 @@ www.investors.com##.market-banner
 
 ! Remove empty banner at top of homepage
 www.ft.com##.n-layout__header-before > pg-slot
+www.ft.com##.slot-wrapper
 
 !!! Flyertalk !!!
 

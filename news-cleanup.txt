@@ -19,6 +19,7 @@ www.wsj.com##.e13b5n727.css-175sadp
 www.wsj.com##.css-sw5cyu.e1hw1wvp4
 www.wsj.com##.css-sw5cyu.edqg86f5
 www.wsj.com##.css-sw5cyu.efl6t85
+www.wsj.com##.css-1kqxnnb.e12faic45
 
 ! Opinion sidebar
 www.wsj.com###opinion
